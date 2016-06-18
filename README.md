@@ -9,6 +9,7 @@ This is the project submission for the Getting and Cleaning Data course project.
 5. The generated tidy data file
 
 The "run_analysis.R" code does following things:
+
 1. Download the dataset if it's not available in the working directory.
 2. Load the activity and feature data
 3. Load the training and test dataset, keep only mean and standard deviation
