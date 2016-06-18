@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 This is the project submission for the Getting and Cleaning Data course project. The submission contains follow files:
+
 1. Souce data "getdata_dataset.zip"
 2. Extracted source data "UCI HAR Dataset" folder
 3. This ReadMe file
