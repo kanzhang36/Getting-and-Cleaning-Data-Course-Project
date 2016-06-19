@@ -102,9 +102,9 @@ This code book is to summarize the variables in the 'tidy.txt' data file.
 
 ### Activity Labels
 
-* `WALKING`: subject was walking during the test
-* `WALKING_UPSTAIRS`: subject was walking up a staircase during the test
-* `WALKING_DOWNSTAIRS`: subject was walking down a staircase during the test
-* `SITTING`: subject was sitting during the test
-* `STANDING`: subject was standing during the test
-* `LAYING`: subject was laying down during the test
+* `WALKING`
+* `WALKING_UPSTAIRS`
+* `WALKING_DOWNSTAIRS`
+* `SITTING`
+* `STANDING`
+* `LAYING`
